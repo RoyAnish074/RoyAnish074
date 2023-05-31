@@ -1,4 +1,4 @@
-![MasterHead](pika.gif)
+              ![MasterHead](pika.gif)
 
 <h1 align="center">Hi 👋, I'm Anish Roy</h1>
 <h3 align="center">A passionate web developer from India</h3>
