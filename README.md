@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anish Roy</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Javascript, React, Unity, C#**
 
 - 💬 Ask me about **Java, C++, C#, Swing, HTML, CSS**
 
