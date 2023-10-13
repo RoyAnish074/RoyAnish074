@@ -1,11 +1,11 @@
 ![MasterHead](City.gif)
 
 <h1 align="center">Hi 👋, I'm Anish Roy</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate XR developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Unity, C#**
+- 🌱 I’m currently learning **AI/ML, Python, Unity, C#**
 
-- 💬 Ask me about **Java, C++, C#, Swing, HTML, CSS**
+- 💬 Ask me about **Java, C++, C#, Swing, HTML, CSS, React, Javascript**
 
 - 📫 How to reach me **royanish074@gmail.com**
 
