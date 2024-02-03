@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anish Roy</h1>
 <h3 align="center">A passionate XR developer from India</h3>
 
-- 🌱 I’m currently learning **AI/ML, Python, Unity, C#**
+- 🌱 I’m currently learning ** Unreal Ungine 5, Unity, C#, AI/ML**
 
 - 💬 Ask me about **Java, C++, C#, Swing, HTML, CSS, React, Javascript**
 
