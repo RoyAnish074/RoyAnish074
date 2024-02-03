@@ -1,4 +1,4 @@
-![MasterHead](xr.gif)
+![MasterHead](city.gif)
 
 <h1 align="center">Hi 👋, I'm Anish Roy</h1>
 <h3 align="center">A passionate XR developer from India</h3>
